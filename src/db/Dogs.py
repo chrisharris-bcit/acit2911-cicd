@@ -1,7 +1,7 @@
 all_dogs = [
     {
         "id": 1,
-        "name": "CHARLIE",
+        "name": "Charlie",
         "age": 12
     },
     {
