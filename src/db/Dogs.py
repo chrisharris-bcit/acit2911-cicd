@@ -6,7 +6,7 @@ all_dogs = [
     },
     {
         "id": 2,
-        "name": "Tater",
+        "name": "TATER",
         "age": 4
     },
     {
